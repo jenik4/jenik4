@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media1.tenor.com/images/799ba6025e4d42964cb160d448fa0e54/tenor.gif?itemid=15989654" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**jenik4/jenik4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">Ahoj jsem Honzík 👨‍💻</div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 Momentálně studuji, takže se mě na nic neptejte, stejně to nevím  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Studuji IT a nehraju hry  
+  
+
+<br/>  
+
+
