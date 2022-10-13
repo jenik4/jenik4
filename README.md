@@ -10,6 +10,13 @@
   
 
 - ⚡ Fun fact: Studuji IT a nehraju hry  
+
+
+- 👨 hraju Track and Field level decathlete 
+
+
+- pizza jedině bez ananasu
+
   
 <a href="https://instagram.com/jan.filipec" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
